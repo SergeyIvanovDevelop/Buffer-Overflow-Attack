@@ -9,7 +9,7 @@
 
 ## Buffer-Overflow-Attack &middot; [![GitHub license](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-blue)](./LICENSE) [![C](https://img.shields.io/badge/language-C-yellow)](https://www.iso.org/standard/74528.html) [![Python](https://img.shields.io/badge/language-Python-critical)](https://www.python.org/) [![LinkedIn](https://img.shields.io/badge/linkedin-Sergey%20Ivanov-blue)](https://www.linkedin.com/in/sergey-ivanov-33413823a/) [![Telegram](https://img.shields.io/badge/telegram-%40SergeyIvanov__dev-blueviolet)](https://t.me/SergeyIvanov_dev) ##
 
-This repository contains the code of a simple program in the `C` programming language, in which it is possible to perform a [buffer overflow attack](https://en.wikipedia.org/wiki/Buffer_overflow). The `simple_programm` program in the `Makefile` is defined to build with the disable [canary](https://en.wikipedia.org/wiki/Stack_buffer_overflow#Stack_canaries) flag which is designed to protect against this type of attack (to enable the demonstration). The repository also contains code in the `Python` programming language, through which this type of attack is carried out.
+This repository contains the code of a simple program in the `C` programming language, in which it is possible to perform a [buffer overflow attack](https://en.wikipedia.org/wiki/Buffer_overflow). The `simple_programm` program in the [Makefile](./Makefile) is defined to build with the disable [canary](https://en.wikipedia.org/wiki/Stack_buffer_overflow#Stack_canaries) flag which is designed to protect against this type of attack (to enable the demonstration). The repository also contains code in the `Python` programming language, through which this type of attack is carried out.
 
 ## :computer: Getting Started  ##
 
